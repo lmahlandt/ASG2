@@ -4,6 +4,9 @@
  * and open the template in the editor.
  */
 
+// Not quite done yet but see what you think.
+
+
 package asg2;
 
 import java.util.Scanner;
